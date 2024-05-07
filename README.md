@@ -1,0 +1,2 @@
+# kopet.indobot
+prijek
